@@ -7,7 +7,7 @@
     "src/**/*.js"
   ],
   "exclude": [
-    "{[{name}]}.js",
+    "aniflow.js",
     "lib/**/*.js"
   ]
 }

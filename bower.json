@@ -1,9 +1,9 @@
 {
-  "name": "{[{name}]}",
-  "main": "{[{name}]}.js",
-  "homepage": "{[{repoUrl}]}",
-  "authors": ["{[{author}]}"],
-  "description": "{[{description}]}",
+  "name": "aniflow",
+  "main": "aniflow.js",
+  "homepage": "https://github.com/alessaloisio/aniflow.git",
+  "authors": ["Aloisio Alessandro"],
+  "description": "Javascript library to manipulate and create animation sequences",
   "license": "MIT",
   "ignore": [
     "**/.*",

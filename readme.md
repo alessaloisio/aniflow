@@ -1,6 +1,6 @@
-# {[{name}]}.JS
+# aniflow.JS
 
-{[{description}]}
+Javascript library to manipulate and create animation sequences
 
 # Features
 
@@ -18,7 +18,7 @@
 - `npm test` - Test written examples on pure JS for better understanding module usage.
 - `npm run lint` - Run ESlint with airbnb-config
 - `npm run lint:fix` - Run ESlint with airbnb-config and try to fix
-- `npm run minify` - Minify {[{name}]}.js
+- `npm run minify` - Minify aniflow.js
 
 # Installation
 
@@ -26,5 +26,5 @@ Just clone this repo and remove `.git` folder.
 
 # License
 
-MIT © {[{author}]}
+MIT © Aloisio Alessandro
 

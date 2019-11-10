@@ -1,9 +1,9 @@
 const version = "1.0.0";
 
-export default class {[{name}]} {
+export default class aniflow {
   constructor(params) {
-    console.log("hello from {[{name}]}");
+    console.log("hello from aniflow");
   }
 }
 
-new {[{name}]}();
+new aniflow();
